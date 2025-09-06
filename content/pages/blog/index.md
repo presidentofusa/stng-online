@@ -8,7 +8,7 @@ topSections:
       text: Welcome
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: To the space time navigators guild
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
