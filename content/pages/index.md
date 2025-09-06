@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Welcome to the space time navigator Guild '
+      text: Welcome to the Space Time Navigator Guild
       color: text-dark
       type: TitleBlock
     subtitle: By Douglas Cumali
