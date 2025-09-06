@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Welcome to the space time navigator Guild '
       color: text-dark
       type: TitleBlock
     subtitle: By Douglas Cumali
